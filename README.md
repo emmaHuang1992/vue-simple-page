@@ -1,4 +1,4 @@
-# vue-top-loadingbar
+# vue-simple-page
 
 ## Project setup
 ```
